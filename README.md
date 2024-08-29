@@ -1,1 +1,1 @@
-# I recreated the pomodoro timer using javaSctript,HTML and CSS.
+# I recreated the pomodoro timer using javaScript,HTML and CSS.
